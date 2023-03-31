@@ -28,5 +28,8 @@ document.getElementById("import-dashboard").innerHTML = `
                 <p>Item 6 description</p>
             </div>
         </div>
+        <div>
+         analytics
+        </div>
     </div>
 `
